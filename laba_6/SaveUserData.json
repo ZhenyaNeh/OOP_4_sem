@@ -1,0 +1,27 @@
+[
+  {
+    "Name_User": "Eugene",
+    "Password_User": "12345678",
+    "Email_User": "eugene"
+  },
+  {
+    "Name_User": "Eugene1",
+    "Password_User": "1234",
+    "Email_User": "zeka@gmail.com"
+  },
+  {
+    "Name_User": "test",
+    "Password_User": "1234",
+    "Email_User": "fd@gmail.com"
+  },
+  {
+    "Name_User": "\u043D\u0438\u043A\u0438\u0442\u0430",
+    "Password_User": "1111",
+    "Email_User": "\u0440\u043E@gmail.com"
+  },
+  {
+    "Name_User": "qwerty",
+    "Password_User": "1111",
+    "Email_User": "gh@gmail.com"
+  }
+]

@@ -1,0 +1,63 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>laba_4_5</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="appIcon.ico" />
+    <None Remove="Intel_i-5.jpeg" />
+    <None Remove="Resources\fonts\Neutra Text Bold.otf" />
+    <None Remove="Resources\fonts\Neutra Text Book.otf" />
+    <None Remove="Resources\fonts\Neutra Text Light.otf" />
+    <None Remove="Resources\fonts\NeutraText-Bold.ttf" />
+    <None Remove="Resources\fonts\NeutraText-Book.ttf" />
+    <None Remove="Resources\fonts\San Francisco Text Bold.ttf" />
+    <None Remove="Resources\fonts\San Francisco Text Light.ttf" />
+    <None Remove="Resources\fonts\San Francisco Text Medium.ttf" />
+    <None Remove="Resources\fonts\San Francisco Text Regular.ttf" />
+    <None Remove="Resources\img\addPhoto.jpg" />
+    <None Remove="Resources\img\appIcon.ico" />
+    <None Remove="Resources\img\back.png" />
+    <None Remove="Resources\img\Intel_i-5.jpeg" />
+    <None Remove="Resources\img\m8.png" />
+    <None Remove="Resources\img\PC1.jpeg" />
+    <None Remove="Resources\img\PC2.jpeg" />
+    <None Remove="Resources\img\pointer.cur" />
+    <None Remove="Resources\img\t.png" />
+    <None Remove="Resources\img\test.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="4.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="appIcon.ico" />
+    <Resource Include="Resources\fonts\San Francisco Text Bold.ttf" />
+    <Resource Include="Resources\fonts\San Francisco Text Light.ttf" />
+    <Resource Include="Resources\fonts\San Francisco Text Medium.ttf" />
+    <Resource Include="Resources\fonts\San Francisco Text Regular.ttf" />
+    <Resource Include="Resources\img\addPhoto.jpg" />
+    <Resource Include="Resources\img\appIcon.ico" />
+    <Resource Include="Resources\img\back.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\img\Intel_i-5.jpeg" />
+    <Resource Include="Resources\img\m8.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\img\pointer.cur" />
+    <Resource Include="Resources\img\t.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="LangResource\" />
+  </ItemGroup>
+
+</Project>

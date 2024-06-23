@@ -1,0 +1,245 @@
+[
+  {
+    "PC_Type": "Server ",
+    "CPU": {
+      "CPU_Manufacturer": "Intel",
+      "CPU_Series": "Intel i5",
+      "CPU_Model": "Intel ix- 4770K",
+      "CPU_CountCores": 16,
+      "CPU_Frequency": "2.8GHz",
+      "CPU_ArchitectureBitSize": 32
+    },
+    "GPU": {
+      "GPU_Manufacturer": "Nvidia",
+      "GPU_Series": "Nvidia RTX-30 series",
+      "GPU_Model": "Nvidia RTX-80",
+      "GPU_Frequency": "3.2GHz",
+      "GPU_DiretX11_Support": true,
+      "GPU_MamoriCapacity": "8"
+    },
+    "Memory": {
+      "RAM_Type": "DDR4",
+      "RAM_Size": 4,
+      "HDD_Type": "HDD",
+      "HDD_Size": 128
+    },
+    "DateOfPurchase": "2/25/2024 7:22:01 PM",
+    "PhoneNumber": "(   )    -"
+  },
+  {
+    "PC_Type": "Workstation ",
+    "CPU": {
+      "CPU_Manufacturer": "Intel",
+      "CPU_Series": "Intel i5",
+      "CPU_Model": "Intel ix- 4790K",
+      "CPU_CountCores": 8,
+      "CPU_Frequency": "3.2GHz",
+      "CPU_ArchitectureBitSize": 64
+    },
+    "GPU": {
+      "GPU_Manufacturer": "AMD",
+      "GPU_Series": "AMD RX-6 series",
+      "GPU_Model": "AMD RX-800",
+      "GPU_Frequency": "3.4GHz",
+      "GPU_DiretX11_Support": true,
+      "GPU_MamoriCapacity": "6"
+    },
+    "Memory": {
+      "RAM_Type": "DDR4",
+      "RAM_Size": 4,
+      "HDD_Type": "M2.Me",
+      "HDD_Size": 128
+    },
+    "DateOfPurchase": "2/16/2024 8:28:08 PM",
+    "PhoneNumber": "(999) 999-9999"
+  },
+  {
+    "PC_Type": "Workstation ",
+    "CPU": {
+      "CPU_Manufacturer": "Intel",
+      "CPU_Series": "Intel i5",
+      "CPU_Model": "Intel ix- 4770K",
+      "CPU_CountCores": 8,
+      "CPU_Frequency": "3.2GHz",
+      "CPU_ArchitectureBitSize": 64
+    },
+    "GPU": {
+      "GPU_Manufacturer": "AMD",
+      "GPU_Series": "AMD RX-6 series",
+      "GPU_Model": "AMD RX-700",
+      "GPU_Frequency": "4.2GHz",
+      "GPU_DiretX11_Support": true,
+      "GPU_MamoriCapacity": "8"
+    },
+    "Memory": {
+      "RAM_Type": "DDR3",
+      "RAM_Size": 4,
+      "HDD_Type": "SSD",
+      "HDD_Size": 128
+    },
+    "DateOfPurchase": "2/16/2024 10:17:38 PM",
+    "PhoneNumber": "(   )    -"
+  },
+  {
+    "PC_Type": "Workstation ",
+    "CPU": {
+      "CPU_Manufacturer": "Intel",
+      "CPU_Series": "Intel i5",
+      "CPU_Model": "Intel ix- 4770K",
+      "CPU_CountCores": 8,
+      "CPU_Frequency": "3.2GHz",
+      "CPU_ArchitectureBitSize": 64
+    },
+    "GPU": {
+      "GPU_Manufacturer": "AMD",
+      "GPU_Series": "AMD RX-6 series",
+      "GPU_Model": "AMD RX-700",
+      "GPU_Frequency": "4.2GHz",
+      "GPU_DiretX11_Support": true,
+      "GPU_MamoriCapacity": "8"
+    },
+    "Memory": {
+      "RAM_Type": "DDR3",
+      "RAM_Size": 4,
+      "HDD_Type": "SSD",
+      "HDD_Size": 128
+    },
+    "DateOfPurchase": "2/16/2024 10:17:38 PM",
+    "PhoneNumber": "(   )    -"
+  },
+  {
+    "PC_Type": "Workstation ",
+    "CPU": {
+      "CPU_Manufacturer": "Intel",
+      "CPU_Series": "Intel i5",
+      "CPU_Model": "Intel ix- 4770K",
+      "CPU_CountCores": 8,
+      "CPU_Frequency": "3.2GHz",
+      "CPU_ArchitectureBitSize": 64
+    },
+    "GPU": {
+      "GPU_Manufacturer": "AMD",
+      "GPU_Series": "AMD RX-6 series",
+      "GPU_Model": "AMD RX-700",
+      "GPU_Frequency": "4.2GHz",
+      "GPU_DiretX11_Support": true,
+      "GPU_MamoriCapacity": "8"
+    },
+    "Memory": {
+      "RAM_Type": "DDR3",
+      "RAM_Size": 4,
+      "HDD_Type": "SSD",
+      "HDD_Size": 128
+    },
+    "DateOfPurchase": "2/16/2024 10:17:38 PM",
+    "PhoneNumber": "(   )    -"
+  },
+  {
+    "PC_Type": "Workstation ",
+    "CPU": {
+      "CPU_Manufacturer": "Intel",
+      "CPU_Series": "Intel i5",
+      "CPU_Model": "Intel ix- 4770K",
+      "CPU_CountCores": 8,
+      "CPU_Frequency": "3.2GHz",
+      "CPU_ArchitectureBitSize": 64
+    },
+    "GPU": {
+      "GPU_Manufacturer": "Nvidia",
+      "GPU_Series": "Nvidia RTX-40 series",
+      "GPU_Model": "Nvidia RTX-80",
+      "GPU_Frequency": "3.0GHz",
+      "GPU_DiretX11_Support": true,
+      "GPU_MamoriCapacity": "6"
+    },
+    "Memory": {
+      "RAM_Type": "DDR3",
+      "RAM_Size": 16,
+      "HDD_Type": "SSD",
+      "HDD_Size": 512
+    },
+    "DateOfPurchase": "2/23/2024 7:34:00 PM",
+    "PhoneNumber": "(   )    -"
+  },
+  {
+    "PC_Type": "Workstation ",
+    "CPU": {
+      "CPU_Manufacturer": "Intel",
+      "CPU_Series": "Intel i5",
+      "CPU_Model": "Intel ix- 4790K",
+      "CPU_CountCores": 8,
+      "CPU_Frequency": "3.2GHz",
+      "CPU_ArchitectureBitSize": 64
+    },
+    "GPU": {
+      "GPU_Manufacturer": "AMD",
+      "GPU_Series": "AMD RX-6 series",
+      "GPU_Model": "AMD RX-800",
+      "GPU_Frequency": "3.4GHz",
+      "GPU_DiretX11_Support": true,
+      "GPU_MamoriCapacity": "6"
+    },
+    "Memory": {
+      "RAM_Type": "DDR4",
+      "RAM_Size": 64,
+      "HDD_Type": "M2.Me",
+      "HDD_Size": 128
+    },
+    "DateOfPurchase": "2/16/2024 8:28:08 PM",
+    "PhoneNumber": "(999) 999-9999"
+  },
+  {
+    "PC_Type": "Workstation ",
+    "CPU": {
+      "CPU_Manufacturer": "Intel",
+      "CPU_Series": "Intel i5",
+      "CPU_Model": "Intel ix- 4790K",
+      "CPU_CountCores": 8,
+      "CPU_Frequency": "3.2GHz",
+      "CPU_ArchitectureBitSize": 64
+    },
+    "GPU": {
+      "GPU_Manufacturer": "AMD",
+      "GPU_Series": "AMD RX-6 series",
+      "GPU_Model": "AMD RX-800",
+      "GPU_Frequency": "3.4GHz",
+      "GPU_DiretX11_Support": true,
+      "GPU_MamoriCapacity": "6"
+    },
+    "Memory": {
+      "RAM_Type": "DDR4",
+      "RAM_Size": 64,
+      "HDD_Type": "M2.Me",
+      "HDD_Size": 1024
+    },
+    "DateOfPurchase": "2/16/2024 8:28:08 PM",
+    "PhoneNumber": "(999) 999-9999"
+  },
+  {
+    "PC_Type": "Server ",
+    "CPU": {
+      "CPU_Manufacturer": "Intel",
+      "CPU_Series": "Intel i5",
+      "CPU_Model": "Intel ix- 4770K",
+      "CPU_CountCores": 16,
+      "CPU_Frequency": "4.2GHz",
+      "CPU_ArchitectureBitSize": 32
+    },
+    "GPU": {
+      "GPU_Manufacturer": "Nvidia",
+      "GPU_Series": "Nvidia RTX-30 series",
+      "GPU_Model": "Nvidia RTX-80",
+      "GPU_Frequency": "3.2GHz",
+      "GPU_DiretX11_Support": true,
+      "GPU_MamoriCapacity": "6"
+    },
+    "Memory": {
+      "RAM_Type": "DDR3",
+      "RAM_Size": 4,
+      "HDD_Type": "SSD",
+      "HDD_Size": 128
+    },
+    "DateOfPurchase": "2/25/2024 7:30:38 PM",
+    "PhoneNumber": "(   )    -"
+  }
+]

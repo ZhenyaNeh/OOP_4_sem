@@ -1,0 +1,17 @@
+D:\University\OOP\laba_1\laba_1\bin\Debug\net7.0-windows\laba_1.exe
+D:\University\OOP\laba_1\laba_1\bin\Debug\net7.0-windows\laba_1.deps.json
+D:\University\OOP\laba_1\laba_1\bin\Debug\net7.0-windows\laba_1.runtimeconfig.json
+D:\University\OOP\laba_1\laba_1\bin\Debug\net7.0-windows\laba_1.dll
+D:\University\OOP\laba_1\laba_1\bin\Debug\net7.0-windows\laba_1.pdb
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\laba_1.Form1.resources
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\laba_1.csproj.GenerateResource.cache
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\laba_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\laba_1.AssemblyInfoInputs.cache
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\laba_1.AssemblyInfo.cs
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\laba_1.csproj.CoreCompileInputs.cache
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\laba_1.dll
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\refint\laba_1.dll
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\laba_1.pdb
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\laba_1.genruntimeconfig.cache
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\ref\laba_1.dll
+D:\University\OOP\laba_1\laba_1\obj\Debug\net7.0-windows\laba_1.Properties.Resources.resources
